@@ -1,0 +1,49 @@
+{
+    "habits": {
+        "Annen": {
+            "name": "Annen",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        },
+        "Bacin": {
+            "name": "Bacin",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        },
+        "Ninen": {
+            "name": "Ninen",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        },
+        "Deden": {
+            "name": "Deden",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        },
+        "Basda": {
+            "name": "Basda",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        },
+        "s": {
+            "name": "s",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        },
+        "ss": {
+            "name": "ss",
+            "streak": 1,
+            "xp": 10,
+            "last_logged_day": 738992
+        }
+    },
+    "level": 1,
+    "total_xp": 70,
+    "xp_for_next_level": 100
+}

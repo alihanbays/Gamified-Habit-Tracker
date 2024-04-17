@@ -1,0 +1,12 @@
+{
+    "habits": {
+        "Exercise": {
+            "name": "Exercise",
+            "streak": 0,
+            "xp": 0,
+            "last_logged_day": null
+        }
+    },
+    "level": 1,
+    "total_xp": 0
+}
